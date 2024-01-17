@@ -21,17 +21,42 @@
 .nav-main li a {
   text-decoration: none;
 }
-
-.link-1 {
-  color: blue;
+.nav-main a.visit-1 {
+  text-decoration: none;
+  color: #3366cc; /* Колір для не відвіданих visit-1 */
 }
 
-.link-2 {
-  color: #cc3366;
+.nav-main a.visit-1:visited {
+  text-decoration: none;
+  color: #993399; /* Колір для відвіданих visit-1 */
 }
-.link-3 {
-  color: #1fa15a;
+
+.nav-main a.visit-2 {
+  text-decoration: none;
+  color: #ff0000; /* Колір для не відвіданих visit-2 */
 }
-.link-4 {
-  color: #d49f18;
+
+.nav-main a.visit-2:visited {
+  text-decoration: none;
+  color: #800080; /* Колір для відвіданих visit-2 */
+}
+
+.nav-main a.visit-3 {
+  text-decoration: none;
+  color: #00cc00; /* Колір для не відвіданих visit-3 */
+}
+
+.nav-main a.visit-3:visited {
+  text-decoration: none;
+  color: #663399; /* Колір для відвіданих visit-3 */
+}
+
+.nav-main a.visit-4 {
+  text-decoration: none;
+  color: #ff9900; /* Колір для не відвіданих visit-4 */
+}
+
+.nav-main a.visit-4:visited {
+  text-decoration: none;
+  color: #996633; /* Колір для відвіданих visit-4 */
 }
