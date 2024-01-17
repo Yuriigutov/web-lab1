@@ -1,0 +1,37 @@
+.h1-main {
+  text-align: center;
+  font-size: 24px;
+}
+
+.p-main {
+  font-size: 120%;
+  text-align: center;
+}
+
+.nav-main ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+.nav-main li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.nav-main li a {
+  text-decoration: none;
+}
+
+.link-1 {
+  color: blue;
+}
+
+.link-2 {
+  color: #cc3366;
+}
+.link-3 {
+  color: #1fa15a;
+}
+.link-4 {
+  color: #d49f18;
+}
